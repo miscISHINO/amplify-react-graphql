@@ -10,6 +10,14 @@
       "StackName": "amplify-ishiamplifyapp-dev-124821",
       "StackId": "arn:aws:cloudformation:ap-northeast-1:233921888715:stack/amplify-ishiamplifyapp-dev-124821/b80b8460-cead-11ed-b787-065bb3ce03d5",
       "AmplifyAppId": "d3hyoaraftftav"
+    },
+    "categories": {
+      "api": {
+        "ishiamplifyapp": {}
+      },
+      "auth": {
+        "ishiamplifyapp78afff95": {}
+      }
     }
   }
 }
